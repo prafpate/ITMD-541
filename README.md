@@ -1,2 +1,2 @@
-# ITMD-541
-For Web development Course work
+# ITMD541
+Repository for Web Development Course Work
