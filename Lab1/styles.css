@@ -1,0 +1,36 @@
+h1 {
+    color: rgba(255, 0, 59, 1);
+    text-align: center;
+}
+
+img {
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+
+
+body {
+    background-image: url("background.jpg");
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+
+  p{
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: justify;
+    font-size: 20px;
+}
+
+  ul{
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: justify;
+    font-size: 20px
+  }
